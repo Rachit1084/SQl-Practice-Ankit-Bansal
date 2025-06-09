@@ -30,6 +30,6 @@ This helped me understand flow of logic & concept & develop deeper confidence in
 - Joins (INNER, LEFT, SELF)
 
 ## 🔗 Credit:
-Based on [Ankit Bansal’s SQL Interview Playlist](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
+Based on [Ankit Bansal’s SQL Interview Playlist] (https://youtu.be/qyAgWL066Vo?si=JVrWMEkksgWUyO6B)
 
 ---
